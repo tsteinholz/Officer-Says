@@ -1,0 +1,285 @@
+{
+    "easy":[
+        {
+            "dialog:":"greeting-1",
+            "text":"Hello, Sir. Could I see your license and registration please.",
+            "audio":""
+        },
+        {
+            "dialog:":"greeting-2",
+            "text":"Good Evening Mr. I need to see your licence and registration.",
+            "audio":""
+        },
+        {
+            "dialog:":"greeting-3",
+            "text":"Could you please turn off your car, I need to see your license and registration.",
+            "audio":""},
+        {
+            "dialog:":"turn-down-radio",
+            "text":"Would you mind turning down the radio for me?",
+            "audio":""
+        },
+        {
+            "dialog:":"license-1",
+            "text":"Could you get your licence for me sir?",
+            "audio":""
+        },
+        {
+            "dialog:":"license-2",
+            "text":"Can I see your licence real quick?",
+            "audio":""
+        },
+        {
+            "dialog:":"license-3",
+            "text":"Would you mind getting your licence out for me sir?",
+            "audio":""
+        },
+        {
+            "dialog:":"registration-1",
+            "text":"Could you get me your registration sir?",
+            "audio":""
+        },
+        {
+            "dialog:":"registration-2",
+            "text":"Could I please see the registration?",
+            "audio":""
+        },
+        {
+            "dialog:":"registration-3",
+            "text":"Would you mind getting me the registration?",
+            "audio":""
+        },
+        {
+            "dialog:":"received-1",
+            "text":"Thank you.",
+            "audio":""
+        },
+        {
+            "dialog:":"received-2",
+            "text":"Looks good.",
+            "audio":""
+        },
+        {
+            "dialog:":"wait-1",
+            "text":"Wait here.",
+            "audio":""
+        },
+        {
+            "dialog:":"wait-2",
+            "text":"I'll be right back, I need to see if these check out.",
+            "audio":""
+        },
+        {
+            "dialog:":"wait-3",
+            "text":"One moment please sir.",
+            "audio":""
+        },
+        {
+            "dialog:":"returned-licence-1",
+            "text":"Here is your licence sir.",
+            "audio":""
+        },
+        {
+            "dialog:":"returned-licence-2",
+            "text":"I got your licence here for you.",
+            "audio":""
+        },
+        {
+            "dialog:":"returned-licence-3",
+            "text":"Alright, everything looks good",
+            "audio":""
+        },
+        {
+            "dialog:":"returned-registration-1",
+            "text":"Here is your registration back sir.",
+            "audio":""
+        },
+        {
+            "dialog:":"returned-registration-2",
+            "text":"I got your registration here for you.",
+            "audio":""
+        },
+        {
+            "dialog:":"returned-registration-3",
+            "text":"Alright, everything good with your registration.",
+            "audio":""
+        },
+        {
+            "dialog:":"ticket-1",
+            "text":"",
+            "audio":""
+        },
+        {
+            "dialog:":"ticket-2",
+            "text":"",
+            "audio":""
+        },
+        {
+            "dialog:":"",
+            "text":"",
+            "audio":""
+        },
+        {
+            "dialog:":"",
+            "text":"",
+            "audio":""
+        },
+        {
+            "dialog:":"",
+            "text":"",
+            "audio":""
+        },
+        {
+            "dialog:":"",
+            "text":"",
+            "audio":""
+        }
+    ],
+    "hard":[
+        {
+            "dialog:":"greeting-1",
+            "text":"Turn off the car. License and Registration.",
+            "audio":""
+        },
+        {
+            "dialog:":"greeting-2",
+            "text":"I'm going to need you to give me your licence and registration.",
+            "audio":""
+        },
+        {
+            "dialog:":"greeting-3",
+            "text":"Let's not make this harder than it needs to be buddy.",
+            "audio":""
+        },
+        {
+            "dialog:":"turn-down-radio",
+            "text":"You need to turn off the radio.",
+            "audio":""
+        },
+        {
+            "dialog:":"licence-1",
+            "text":"Give me your license now.",
+            "audio":""
+        },
+        {
+            "dialog:":"licence-2",
+            "text":"Get out your license.",
+            "audio":""
+        },
+        {
+            "dialog:":"licence-3",
+            "text":"You know the drill, let me see your license.",
+            "audio":""
+        },
+        {
+            "dialog:":"registration-1",
+            "text":"Now your registration, come on boy.",
+            "audio":""
+        },
+        {
+            "dialog:":"registration-2",
+            "text":"Your registration.",
+            "audio":""
+        },
+        {
+            "dialog:":"registration-3",
+            "text":"Did you steal this? Can I see the registration?",
+            "audio":""
+        },
+        {
+            "dialog:":"received-1",
+            "text":"Okay.",
+            "audio":""
+        },
+        {
+            "dialog:":"received-2",
+            "text":"Good.",
+            "audio":""
+        },
+        {
+            "dialog:":"wait-1",
+            "text":"Wait here boy.",
+            "audio":""
+        },
+        {
+            "dialog:":"wait-2",
+            "text":"Sit there.",
+            "audio":""
+        },
+        {
+            "dialog:":"wait-3",
+            "text":"Okay, can you handle staying still for a bit?",
+            "audio":""
+        },
+        {
+            "dialog:":"returned-licence-1",
+            "text":"Licence here.",
+            "audio":""
+        },
+        {
+            "dialog:":"returned-licence-2",
+            "text":"Okay here's your licence boy.",
+            "audio":""
+        },
+        {
+            "dialog:":"retuned-licence-3",
+            "text":"Here you go.",
+            "audio":""
+        },
+        {
+            "dialog:":"returned-registration-1",
+            "text":"Registration here.",
+            "audio":""
+        },
+        {
+            "dialog:":"returned-registration-2",
+            "text":"And your registration boy.",
+            "audio":""
+        },
+        {
+            "dialog:":"returned-registration-3",
+            "text":"Here boy.",
+            "audio":""
+        },
+        {
+            "dialog:":"",
+            "text":"",
+            "audio":""
+        },
+        {
+            "dialog:":"",
+            "text":"",
+            "audio":""
+        },
+        {
+            "dialog:":"",
+            "text":"",
+            "audio":""
+        },
+        {
+            "dialog:":"",
+            "text":"",
+            "audio":""
+        },
+        {
+            "dialog:":"",
+            "text":"",
+            "audio":""
+        },
+        {
+            "dialog:":"",
+            "text":"",
+            "audio":""
+        },
+        {
+            "dialog:":"",
+            "text":"",
+            "audio":""
+        },
+        {
+            "dialog:":"",
+            "text":"",
+            "audio":""
+        },
+    ]
+}
