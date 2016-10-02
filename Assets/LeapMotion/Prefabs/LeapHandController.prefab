@@ -27,6 +27,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0, y: -0.17, z: 0.338}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -41,7 +42,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c592f16851a620743868a31232613370, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ModelCollection: []
+  ModelsParent: {fileID: 0}
   ModelPool: []
 --- !u!114 &11435192
 MonoBehaviour:
@@ -54,10 +55,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 025cc0fa7b46aa541aba29d28d35ac09, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PerFrameFixedUpdateOffset: 0
-  isHeadMounted: 0
-  overrideDeviceType: 0
-  overrideDeviceTypeWith: 1
+  _isHeadMounted: 1
+  _temporalWarping: {fileID: 0}
+  _reuseFramesForPhysics: 0
+  _overrideDeviceType: 0
+  _overrideDeviceTypeWith: 1
+  _useInterpolation: 0
+  _interpolationDelay: 15
 --- !u!114 &11471522
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -69,7 +73,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 215a4d49fc705b74a9d3c5cbfa2c9601, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  handMovementScale: {x: 1, y: 1, z: 1}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
