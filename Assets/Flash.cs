@@ -14,7 +14,7 @@ public class Flash : MonoBehaviour {
 		red.intensity = 0;
 		blue.intensity = 0;
 		running = false;
-		Debug.Log ("start");
+//		Debug.Log ("start");
 	}
 	
 	// Update is called once per frame
@@ -26,15 +26,15 @@ public class Flash : MonoBehaviour {
 
 	IEnumerator FlashCycle() {
 		running = true;
-		Debug.Log ("Red High");
+//		Debug.Log ("Red High");
 		red.intensity = 5;
 		yield return new WaitForSeconds (rate);
-		Debug.Log ("Red Low");
-		Debug.Log ("Blue High");
+//		Debug.Log ("Red Low");
+//		Debug.Log ("Blue High");
 		red.intensity = 0;
 		blue.intensity = 5;
 		yield return new WaitForSeconds (rate);
-		Debug.Log ("Blue Low");
+//		Debug.Log ("Blue Low");
 		blue.intensity = 0;
 		running = false;
 	}
