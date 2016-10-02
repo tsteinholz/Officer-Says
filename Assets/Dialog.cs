@@ -15,7 +15,7 @@ public class Dialog : MonoBehaviour {
 	
 	}
 
-	void GetDialog(string key) {
-		
-	}
+//	string GetDialog(string key) {
+		//string mode = (bool) curr_meta.difficulty ? "easy" : "hard";
+//	}
 }
